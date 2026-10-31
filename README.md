@@ -23,7 +23,7 @@
 <div> 
   <a href = "link_email"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="link_edin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img align="right" alt="gif" src="https://media1.tenor.com/m/8bxmkCa7mTUAAAAd/%D9%82%D9%85%D8%B1.gif">
+  <img align="right" alt="gif" height="50cm" src="https://media1.tenor.com/m/8bxmkCa7mTUAAAAd/%D9%82%D9%85%D8%B1.gif">
 </div>
 
 ##
