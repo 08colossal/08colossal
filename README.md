@@ -18,22 +18,20 @@
   <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
 </div>
 
+##
+
 <div> 
-  <a href="link_youtube" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="link_instagram" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="link_twitch" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="link_discord" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "link_email"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="link_edin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <img align="right" alt="gif" src="https://media1.tenor.com/m/8bxmkCa7mTUAAAAd/%D9%82%D9%85%D8%B1.gif">
 </div>
 
+##
 
 - I am currently in my second period of Software Analysis and Development at Biopark's University | Brazil
 - I'm learning Python, JavaScript and C, and will start with Java! Also have knowledge of C# and the lovebirds HTML/CSS.
 - I'm studying SQL with postgreSQL at the moment. 
   
-<img  src="https://media1.tenor.com/m/8bxmkCa7mTUAAAAd/%D9%82%D9%85%D8%B1.gif"/></br>
 
 
 You can contact me: 
