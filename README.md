@@ -32,7 +32,8 @@
 - I'm learning Python, JavaScript and C, and will start with Java! Also have knowledge of C# and the lovebirds HTML/CSS.
 - I'm studying SQL with postgreSQL at the moment. 
   
-
+<br>
+![Snake animation](https://github.com/08colossal/08colossal/blob/output/github-contribuition/grid-snake.svg)
 
 You can contact me: 
 pauvelsegiovana@gmail.com
