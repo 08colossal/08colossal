@@ -2,8 +2,8 @@
 
 ### Welcome to my profile, I'm Giovana Pauvels 🤍
 <div>
-  <a href="https://github.com/colossal08">
-  <img height="180cm" src="https://github-stats-extended.vercel.app/api?username=colossal08"/>
+  <a href="https://github.com/08colossal">
+  <img height="180cm" src="https://github-stats-extended.vercel.app/api?username=08colossal"/>
   <img height="180cm" src="https://github.com/stats-organization/github-stats-extended"/>
 </div>
 
