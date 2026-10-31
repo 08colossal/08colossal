@@ -19,21 +19,18 @@
 </div>
 
 ##
-<img align="right" alt="gif" height="100cm" src="https://media1.tenor.com/m/8bxmkCa7mTUAAAAd/%D9%82%D9%85%D8%B1.gif">
 
 <div>
-  <a href = "link_email"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="link_edin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <!--<img alt="gif" align="right" height="100cm" src="https://media1.tenor.com/m/8bxmkCa7mTUAAAAd/%D9%82%D9%85%D8%B1.gif">-->
+  <a href = "mailto:pauvelsegiovana@email.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/giovana-pauvels-75887b341/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
+  - I am currently in my second period of Software Analysis and Development at Biopark's University | Brazil
+  - Searching for Python, JavaScript and Java! Also have knowledge of C and the lovebirds HTML/CSS.
+  - Databases/DataAnalysis: SQL with postgreSQL at the moment. 
 
-- I am currently in my second period of Software Analysis and Development at Biopark's University | Brazil
-- I'm learning Python, JavaScript and C, and will start with Java! Also have knowledge of C# and the lovebirds HTML/CSS.
-- I'm studying SQL with postgreSQL at the moment. 
   
 <br>
 <img src="https://raw.githubusercontent.com/08colossal/08colossal/output/snake.svg" alt="Snake animation" />
-You can contact me: 
-pauvelsegiovana@gmail.com
 
