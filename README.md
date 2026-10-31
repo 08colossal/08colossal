@@ -33,8 +33,7 @@
 - I'm studying SQL with postgreSQL at the moment. 
   
 <br>
-![Snake animation](https://github.io)
-
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
 You can contact me: 
 pauvelsegiovana@gmail.com
 
