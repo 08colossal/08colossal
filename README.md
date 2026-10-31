@@ -33,7 +33,12 @@
 - I'm studying SQL with postgreSQL at the moment. 
   
 <br>
-![Snake animation](https://08colossal.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="Snake animation" src="https://githubusercontent.com">
+</picture>
+
 
 You can contact me: 
 pauvelsegiovana@gmail.com
