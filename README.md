@@ -3,9 +3,11 @@
 ### Welcome to my profile, I'm Giovana Pauvels 🤍
 <div>
   <a href="https://github.com/08colossal">
-  <img height="180cm" src="https://github-stats-extended.vercel.app/api?username=08colossal"/>
-  <img height="180cm" src="https://github.com/stats-organization/github-stats-extended"/>
+  <img height="180cm" src="https://github-stats-extended.vercel.app/api?username=08colossal&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=omni"/>
+  <img height="180cm" src="https://github-stats-extended.vercel.app/api?username=08colossal&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=omni"/>
 </div>
+
+    
 
 
 
