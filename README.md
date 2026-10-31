@@ -1,6 +1,15 @@
-### Hello World!
+# Hello World!
 
-## Welcome to my profile, I'm Giovana Pauvels 🤍
+### Welcome to my profile, I'm Giovana Pauvels 🤍
+<div>
+  <a href="https://github.com/colossal08">
+  <img height="180cm" src="https://github-stats-extended.vercel.app/api?username=colossal08"/>
+  <img height="180cm" src="https://github.com/stats-organization/github-stats-extended"/>
+</div>
+
+
+
+
 - I am currently in my second period of Software Analysis and Development at Biopark's University | Brazil
 - I'm learning Python, JavaScript and C, and will start with Java! Also have knowledge of C# and the lovebirds HTML/CSS.
 - I'm studying SQL with postgreSQL at the moment. 
